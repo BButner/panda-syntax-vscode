@@ -43,6 +43,12 @@
       }
     },
     {
+      "scope": "keyword.operator.expression",
+      "settings": {
+        "foreground": "#FFB86C"
+      }
+    },
+    {
       "scope": "storage",
       "settings": {
         "foreground": "#FFB86C"

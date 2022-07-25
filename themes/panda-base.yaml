@@ -40,6 +40,10 @@ tokenColors:
   settings:
     foreground: _pink
 
+- scope: keyword.operator.expression
+  settings:
+    foreground: _orange
+
 # -----------------------------------------------------------------------------
 # Storage
 # -----------------------------------------------------------------------------
